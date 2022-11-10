@@ -42,7 +42,7 @@ ul{
 }
 .header__content{
 height: 800px;
-background-color: grey;
+background-color:black;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -53,13 +53,13 @@ gap: 20px;
 
 }
 .header__content h1{
-    color: aquamarine;
+    color: ghostwhite;
     font-size: 50px;
     
 }
 .header__content p{
     font-size: 30px;
-    color: blueviolet;
+    color: azure;
 }
 
 
